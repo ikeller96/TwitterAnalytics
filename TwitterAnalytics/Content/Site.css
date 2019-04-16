@@ -18,6 +18,48 @@ textarea {
     max-width: 280px;
 }
 
+.navbar-inverse {
+    background-color: #466DFF;
+    color: white;
+    border-color: #466DFF;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-text {
+    color: white;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus {
+  color: blueviolet;
+  background-color: transparent;
+}
+
+.navbar-inverse .navbar-text {
+  color: white;
+}
+.navbar-inverse .navbar-nav > li > a {
+  color: white;
+}
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  color: blueviolet;
+  background-color: transparent;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: blueviolet;
+  background-color: #080808;
+}
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
     .jumbotron {
@@ -25,5 +67,8 @@ textarea {
     }
     .body-content {
         padding: 0;
+    }
+    navbar {
+        color: white;
     }
 }
