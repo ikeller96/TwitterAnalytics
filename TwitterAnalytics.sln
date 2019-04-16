@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TwitterAnalytics", "TwitterAnalytics\", "{AB761B08-5EF2-4A56-A334-4ED224948186}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50684"
+		Debug.AspNetCompiler.PhysicalPath = "TwitterAnalytics\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50684\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50684"
+		Release.AspNetCompiler.PhysicalPath = "TwitterAnalytics\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50684\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50684"
+		SlnRelativePath = "TwitterAnalytics\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB761B08-5EF2-4A56-A334-4ED224948186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB761B08-5EF2-4A56-A334-4ED224948186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83226CB7-ADDF-48A3-9047-C3AE5CD9D062}
+	EndGlobalSection
+EndGlobal
