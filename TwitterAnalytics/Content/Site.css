@@ -2,6 +2,7 @@
 body {
     padding-top: 50px;
     padding-bottom: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 /* Wrapping element */
@@ -34,10 +35,11 @@ textarea {
 }
 
 .navbar {
-    font-family: Calibri;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #304F98;
     color: white;
     border-color: #304F98;
+    min-height: 54px;
 }
 
 .navbar-inverse .navbar-brand {
