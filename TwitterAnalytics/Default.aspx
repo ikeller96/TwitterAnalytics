@@ -8,7 +8,7 @@
         <p><a href="Predictions" class="btn btn-primary btn-lg">Twitter Log In &raquo;</a></p>
     </div>
 
-    <div class="row">
+    <!--<div class="row">
         <div class="col-md-4">
             <h2>Getting started</h2>
             <p>
@@ -37,5 +37,5 @@
                 <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
             </p>
         </div>
-    </div>
+    </div>-->
 </asp:Content>
