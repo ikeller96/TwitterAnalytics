@@ -36,8 +36,13 @@
                 <%--Site Scripts--%>
             </Scripts>
         </asp:ScriptManager>
-
+        
         <div class="navbar navbar-inverse navbar-fixed-top">
+            <!--<div class="navbar-brand">
+                <a class="navbar-item">
+                    <h1><b>Twitter Analytics</b></h1>
+                </a>
+            </div>-->
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -57,7 +62,7 @@
                     <asp:LoginView runat="server" ViewStateMode="Disabled">
                         <AnonymousTemplate>
                             <ul class="nav navbar-nav navbar-right">
-                                <li><a runat="server" href="~/Account/Register">Register</a></li>
+                                <!--<li><a runat="server" href="~/Account/Register">Register</a></li>-->
                                 <li><a runat="server" href="~/Account/Login">Log in</a></li>
                             </ul>
                         </AnonymousTemplate>
