@@ -5,7 +5,7 @@
     <div class="jumbotron">
         <h1>Prediction Calculator</h1>
         <p class="lead">Want to know how popular your tweet will be before you post it? Click below.</p>
-        <p><a href="Predictions" class="btn btn-primary btn-lg">Twitter Log In &raquo;</a></p>
+        <p><a href="https://api.twitter.com/oauth/authenticate?oauth_token=NPcudxy0yU5T3tBzho7iCotZ3cnetKwcTIRlX0iwRl0" class="btn btn-primary btn-lg">Twitter Log In</a></p>
     </div>
 
     <!--<div class="row">

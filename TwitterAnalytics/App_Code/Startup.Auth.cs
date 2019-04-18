@@ -26,9 +26,9 @@ namespace TwitterAnalytics
             //    clientId: "",
             //    clientSecret: "");
 
-            //app.UseTwitterAuthentication(
-            //   consumerKey: "",
-            //   consumerSecret: "");
+            app.UseTwitterAuthentication(
+               consumerKey: "WexDEgoBruWt2zgz1vngzz4Ju",
+               consumerSecret: "V9z6YPJtLGsxCLmpHE28lMuEBgZbuldjxiUXWgnyCSlpIY2Yl5");
 
             //app.UseFacebookAuthentication(
             //   appId: "",
