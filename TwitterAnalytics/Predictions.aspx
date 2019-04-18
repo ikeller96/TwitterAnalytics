@@ -7,7 +7,7 @@
         <p class="lead">Enter a potential tweet into the text box below to discover how good your twitter game really is.</p>
         <div class="tweettext">
             <asp:TextBox ID="tweettext" class="tester" runat="server" TextMode="MultiLine"></asp:TextBox>
-            <asp:Label ID="lblResults" runat="server" Text="Label"></asp:Label>
+            <asp:Label ID="lblResults" runat="server" Text=""></asp:Label>
             <!--<asp:TextBox ID="somethin" class="tester" runat="server"></asp:TextBox>-->
         </div>
         <br />
